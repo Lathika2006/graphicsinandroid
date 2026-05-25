@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         Canvas canvas = new Canvas(bg);
         //Creating the Paint Object and set its color & TextSize
         Paint paint = new Paint();
-        paint.setColor(Color.GREEN);
+        paint.setColor(Color.BLUE);
         paint.setTextSize(50);
         //To draw a Circle
         canvas.drawText("Circle", 120, 150, paint);
@@ -93,7 +93,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![image](https://github.com/SudharsanamRK/graphicsinandroid/assets/115523484/6cd88673-28aa-48f3-8998-ee34c49b7f62)
+<img width="1365" height="709" alt="image" src="https://github.com/user-attachments/assets/5844c8cb-af24-4428-8ce1-1e43611180b2" />
+
 
 
 ## RESULT
